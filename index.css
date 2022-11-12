@@ -36,14 +36,15 @@
     padding: 20px 0 30px;
 }
 img {
-    margin: 50px 50px 0;
-    position: relative;
     border: yellow 2px solid;
+    border-radius: 20px;
     height: 400px;
     width: 80%;
-    border-radius: 20px;
+    /*
+    margin: 50px 50px 0;
+    position: relative;
     animation: bouncing 1s linear 0s infinite alternate both;
-    -webkit-animation: bouncing 1s linear 0s infinite alternate both;
+    -webkit-animation: bouncing 1s linear 0s infinite alternate both;*/
 }
 .content{
     height: 100%;
